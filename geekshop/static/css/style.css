@@ -129,6 +129,22 @@ table th, td {
     display: block;
 }
 
+.catalogueCategoryMenu li {
+    display: inline-block;
+}
+
+
+.catalogueCategoryMenu {
+    color: #f49b42;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    list-style-type: none;
+    text-decoration: none;
+    float: none;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
 .catalogueItem {
     width: 30%;
     height: 500px;

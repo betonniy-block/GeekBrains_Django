@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/geekshop.iml" filepath="$PROJECT_DIR$/.idea/geekshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../html_css/.idea/html_css.iml" filepath="$PROJECT_DIR$/../../../../html_css/.idea/html_css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../step_0(source)/.idea/step_0(source).iml" filepath="$PROJECT_DIR$/../../step_0(source)/.idea/step_0(source).iml" />
     </modules>
   </component>
 </project>
